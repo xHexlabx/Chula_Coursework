@@ -7,3 +7,6 @@
 [submodule "Year_2/2110363-HW-SYN-LAB"]
 	path = Year_2/2110363-HW-SYN-LAB
 	url = git@github.com:xHexlabx/2110363-HW-SYN-LAB.git
+[submodule "Year_2/Sem_2/2110363-HW-SYN-LAB"]
+	path = Year_2/Sem_2/2110363-HW-SYN-LAB
+	url = git@github.com:xHexlabx/2110363-HW-SYN-LAB.git
